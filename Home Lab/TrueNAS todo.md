@@ -1,0 +1,9 @@
+- [x] Make Sonarr v4
+	- [x] Custom App
+	- [x] Trash guides
+- [x] QBitManage
+	- [x] Fix torrents for private torrents on qbit
+	- [x] Auto delete finished torrents
+- [x] Make MAM script work #maybeWorking
+- [ ] Get proton VPN port forward work #todo
+- [x] Update Starr apps

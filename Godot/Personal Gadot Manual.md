@@ -1,0 +1,2 @@
+![[Pong#Information]]
+![[Solitaire#Information]]

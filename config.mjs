@@ -2,4 +2,8 @@
 /**
  * @type {import("../config/siteConfig").UserConfig}
  */
-export default {};
+export default {
+  const config = {
+    showLinkPreviews: true,
+  };
+};

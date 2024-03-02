@@ -1,0 +1,151 @@
+# Parts I felt needed polish
+## Mobile Devices
+- Laptops
+	- Backlight inverter
+		- If the monitor is super dim and the brightness doesn't seem to be able to increase. It's likely the backlight inverter.
+- Screens
+	- LCD (Liquid Crystal Diode)
+		- There are two kinds
+			- Active
+				- Generally faster and brighter
+			- Passive
+				- Blurry and slow
+	- IPS (in-plane switching)
+		- Faster
+		- Clear
+		- Color Accurate
+		- High Motion Blur
+	- TN (Twisted Neumatic)
+		- Cheapest
+		- Fastest
+		- Low motion blur
+		- Bad viewing angles
+		- Low color accuracy & contrast ratio
+	- VA (Verticle Alignment)
+		- Hybrid Tech
+		- Better everything
+- Ports
+	- Serial
+		- Sometimes referred to as COM or RS232 & DB9
+- Mobile Device Application Support
+	- Microsoft ActiveSync
+		- Gets all devices including iPhones set up from a central location (like gmail and even have corperate control)
+	- Mobile Device Management (MDM)
+		- This is control of multiple devices in a central place
+## Networking
+### Ports and Protocols
+- Standard Port Ranges
+	- Well-known Ports
+		- 0-1023
+	- Register Port Range
+		- 1024-49151
+	- Dynamic Port Range
+		- 49151-65535
+- Protocols
+	- Email
+		- SMTP (Simple Mail Transfer Protocol): 25
+		- IMAP (Internet Message Access Protocol): 143
+		- POP3 (Post Office Protocol Version 3): 110
+	- File
+		- FTP: 20,21
+		- TFTP (Trivial FTP): 69
+	- Remote Connection
+		- Telnet: 23
+		- SSH (Secure Shell): 22
+		- RDP (Remote Desktop): 3389
+	- Network Services
+		- DNS (Domain Network System): 53
+		- NETBIOS (Network Basic Input/Output System): 137/139 - **Outdated**
+		- DHCP (Dynamic Host Configuration): 67 & 68
+		- SNMP (Simple Network Management): 161/162
+		- LDAP (Lightweight Directory Access Protocol): 389
+		- SMB (Server Message Block): 445
+### Networking Hardware
+- NIC (Network Interface Card)
+- Hubs - Outdated
+- Switches
+	- Managed
+	- Unmanaged
+- PoE (Power over Ethernet)
+	- PoE = 15.4W (802.3af)
+	- PoE+ = 30W (802.3at)
+	- PoE++ = 60W (802.3bt, Type 3)
+	- PoE++ = 100W (802.3bt, Type 4)
+- Patch Panel
+	- Series of Ports (This is what I saw at iCode) that has a bunch of wires coming out the backs.
+- Optical network terminal (ONT)
+- Fios
+	- Fiber Optic
+- SDN: Programmatically configure the network
+### Wireless Protocols
+- 2.4 GHz: Includes Wi-Fi, Bluetooth, Cordless Devices, and Medical Devices
+	- 13 Channels: 11 channels in North America, three that don't overlap
+- 5 GHz: Has less saturation and wider channels through bonding
+	- The channels on these don't overlap like 2.4GHz
+- 802.11:
+	- .11a
+		- 5 GHz
+		- 54 Mbps
+	- .11b
+		- 2.4 GHz 
+		- 11 Mbps
+	- .11g
+		- 2.4 GHz
+		- 54 Mbps
+	- .11n: Wi-Fi 4
+		- 2.4/5 GHz
+		- 600 Mbps
+	- .11ac: Wi-Fi 5
+		- 5 GHz
+		- 7 Gbps
+	- .11ax: Wi-Fi 6
+		- 2.4/5 GHz
+		- 10 Gbps
+- Bluetooth:
+	- 2.4 GHz frequency: 10 meters or 32.8 feet
+	- Standards:
+		- 1.1 legacy: First Standardization, 1 Mbps
+		- 2.0: Bluetooth + Enhanced Data Rate (EDR), 3 Mbps
+		- 3.0: Bluetooth + high speed (HS): 24 Mbps via co-allocated Wi-Fi channel
+		- 4.0: Bluetooth + low energy (LE), focus on IoT (Internet of Things).
+		- 5.0: Variety of revisions of this standard
+- NFC:
+	- 13.56 MHz (megahertz)
+- RFID:
+	- Not to be confused with NFC
+	- These are tags (Powered and Unpowered)
+	- Powered Tags can have up to 100 meters of range
+### Network Hosts and Services
+- Directory Server: Authentication Servers
+	- E.g. Microsoft ActiveDirectory
+- Print Server
+	- Central Place to put all printers into so entire building can access the same drivers
+- Internet Appliances
+	- Unified Threat Management (UTM) appliance
+		- Expensive
+		- Takes multiple Security functions into one device
+	- Load balancers.
+	- Proxy Server
+- SCADA
+	- Collection of components
+	- E.g. control systems, power grids, water grids, etc
+### DNS (Domain Name System)
+- FQDN (Fully Qualified Domain Name)
+- Name Resolution Process:
+	- Hosts file
+	- Local resolver cache.
+	- DNS servers: Root first, top-level domain (TLD), system landscape directory (SLD):
+		- Locally configured DNS server: private or internet service provider (ISP) DNS server.
+		- Root hint.
+		- TLD.
+		- SLD or host's domain (SLD, typically organizations)
+- DNS database and records
+	- A
+		- IPv4
+	- AAAA
+		- IPv6
+	- MX (Mail Exchanger)
+		- This is the IP that handles all emails on the domain's behalf
+	- TXT
+		- Plain text record
+		- Allows for DKIM, DMARC, etc

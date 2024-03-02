@@ -3,7 +3,7 @@
  * @type {import("../config/siteConfig").UserConfig}
  */
 const config = {
-	title: "Luke's Lucky Room"
+	title: "Luke's Lucky Room",
 	description: "This is a site to show off everything I've been learning",
 	author: "Luke",
 	logo: "/content/profile.png"

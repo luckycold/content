@@ -11,4 +11,4 @@ Here's my thoughts on today:
 
 [Hover over or click me!](2023-09-23%202.md)
 
-Submodules are so hard to figure out
+Please work ;-;

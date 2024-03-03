@@ -1,4 +1,4 @@
- name: Dispatch Update Submodule
+name: Dispatch Update Submodule
 on:
   push:
     branches:
@@ -10,5 +10,6 @@ jobs:
       - name: Dispatch update to my-site
         uses: peter-evans/repository-dispatch@v3
         with:
+          token: ${{ secrets.PAT }}
           repository: luckycold/my-site
           event-type: update-submodule

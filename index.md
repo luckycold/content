@@ -1,2 +1,4 @@
+---
+title: Hello!
+---
 ![[Welcome]]
-Hope this works!

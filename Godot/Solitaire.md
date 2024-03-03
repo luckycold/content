@@ -2,6 +2,7 @@
 So, I realize, I actually don't know how to play solitaire. So, here I am going to do some research. Starting with...
 This video!:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eTG6EgEv1Ag" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Sooooooooooo, solitaire is more complex than I realize.
 
 However, at its core, solitaire is taking a deck of cards and sorting them into their various suits in order from least to greatest; With some caveats:

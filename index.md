@@ -8,4 +8,5 @@ I use this to track what I've learned ranging from programming, server administr
 A few hellos first. Hi Taj (I think that's how you spell it :P). Hi Carson! Hi Alanah! Hey Keyvan! Hey Griffin!
 
 Here's my thoughts on today:
+
 [Hover over or click me!](2023-09-23%202.md)

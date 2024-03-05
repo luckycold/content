@@ -134,5 +134,8 @@ Some text under a header works
 But text under a header?
 
 And with a codeblock?:
-```
+```gdscript
+func _ready():
+    var desiredNodeToConnectTo = get_node("DesiredNode")
+    desiredNodeToConnectTo.connect("signalName", self, "_name_Of_Signal_Function")
 ```

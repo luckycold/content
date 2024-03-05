@@ -1,2 +1,3 @@
 ![[Pong#Information]]
+![[]]
 ![[Solitaire#Information]]

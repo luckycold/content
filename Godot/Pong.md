@@ -36,11 +36,11 @@ The node system works like this:
 		- Collision
 		- Sprite
 	- Enemy
-		- Colission
+		- Collision
 		- Sprite
 
-Each bullet point would represent a node and each node has the ability to have it's own script.
-## Controling a sprite
+Each bullet point would represent a node and each node has the ability to have its own script.
+## Controlling a sprite
 Before I can do anything, I need to be able to control a sprite in Godot. So, how do I do that?
 
 > [!INFO]
@@ -51,7 +51,7 @@ Projects > Project Settings > Input Map
 I can add controls that the scripts in the nodes can pull from to be activated at that particular part of the node.
 
 For example:
-I have a Player node structered like so:
+I have a Player node structured like so:
 - Player
 	- Sprite
 	- Collider
@@ -72,7 +72,7 @@ func _physics_process(delta):
 >This is what reruns the code over and over again somewhere between 30-60 times per second depending on what the framerate it set to
 
 The important part of this is the: **Input.get_action_strength("move_up")**
-What this does is it grabs the input we got from the input map from earlier and gives us a number between 0 and 1 depending on how much that particular input is being activated. With a key, it's straight up 0 or 1 but an analog stick would give us something inbetween usually.
+What this does is it grabs the input we got from the input map from earlier and gives us a number between 0 and 1 depending on how much that particular input is being activated. With a key, it's straight up 0 or 1, but an analog stick would give us something in between usually.
 
 ### Constraints
 When it comes to movement sometimes you want to lock down a particular sprite's position when moving around. To do that you would use "clamp" to make it so that it can't move out of a range you clamp it around which appears like so:
@@ -94,7 +94,7 @@ for index in get_slide_count():
 	if collision.collider is RigidBody2D:
 		print("A type was collided with!")	
 ```
-Another way is by adding an area2D node and a CollisionShape2D node to that area 2D node so that it has an actual shape. Then on the top right of Godot click on Node>Signals>body_entered and then connect it to the script that you want, anything inside of this function will run whenever something hits the shape you fitted with your CollisionShape2D:
+Another way is by adding an area2D node and a CollisionShape2D node to that area 2D node so that it has an actual shape. Then on the top right of Godot click on Node>Signals>body_entered and then connect it to the script that you want, anything inside this function will run whenever something hits the shape you fitted with your CollisionShape2D:
 ```gdscript
 func _on_Area2D_body_entered(body):
 pass
@@ -104,7 +104,7 @@ pass
 >Body refers to the object that the Area2D node interacted with
 
 ## Signals
-Sometimes you want to be able to have your code interact with other pieces of code without needing to rely on using the specific node your working on all the time. That's where signals come in. They allow you to fire a message out into the open, and you can set up another node to look for that message, to then respond to that message if it sends it out. The way to make your own custom message to fire is by first:
+Sometimes you want to be able to have your code interact with other pieces of code without needing to rely on using the specific node you're working on all the time. That's where signals come in. They allow you to fire a message out into the open, and you can set up another node to look for that message, to then respond to that message if it sends it out. The way to make your own custom message to fire is by first:
 
 ```gdscript
 signal messageName(extraOptionalDataToPass, anotherOptionalPieceOfData)
@@ -119,7 +119,7 @@ emit_signal("messageName", extraOptionalDataToPass, anotherOptionalPieceOfData)
 
 To then receive that signal by another script, there are two ways to connect the messages. The easiest way is to select the node that script is attached to and click: 
 Node>Signals>The signal you want to connect to another script>Connect
-Then a function will be auto populated inside of the new script you connected it to that will be called whenever the message from the signal sender sends it.
+Then a function will be autopopulated inside of the new script you connected it to that will be called whenever the message from the signal sender sends it.
 
 If you want to connect a signal through code, you can do so by using the `_ready()` function to grab and connect the desired node:
 ```gdscript

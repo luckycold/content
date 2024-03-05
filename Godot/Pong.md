@@ -26,6 +26,9 @@ This video was helpful for reference, I just pulled bits and pieces from it to b
 ![](https://www.youtube.com/Mc13Z2gboEk)
  
 # Information
+
+^7b548b
+
 ## Godot Nodes
 As it turns out Godot has the entire functionality of its engine working inside of a series of nodes working all the way to a god node. Then I make scripts within it that can be controlled.
 

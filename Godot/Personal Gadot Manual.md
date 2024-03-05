@@ -1,3 +1,3 @@
 ![[Pong#Information]]
-![[Pong]]
+![[Pong#Godot Nodes]]
 ![[Solitaire#Information]]

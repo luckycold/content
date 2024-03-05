@@ -132,10 +132,3 @@ func _ready():
 Some text under a header works
 ## Test Subheading
 But text under a header?
-
-And with a code block?:
-```gdscript
-func _ready():
-    var desiredNodeToConnectTo = get_node("DesiredNode")
-    desiredNodeToConnectTo.connect("signalName", self, "_name_Of_Signal_Function")
-```

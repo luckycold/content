@@ -1,3 +1,3 @@
 ![[Pong#Information]]
-![[Pong#Signals]]
+![[Pong#Test]]
 ![[Solitaire#Information]]

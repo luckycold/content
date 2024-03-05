@@ -1,2 +1,2 @@
-![[Pong#Information]]
+![[Pong#Information|Godot Manual]]
 ![[Solitaire#Information]]

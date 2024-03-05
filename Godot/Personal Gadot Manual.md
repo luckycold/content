@@ -1,3 +1,3 @@
 ![[Pong#Information]]
-![[Pong#Controling a sprite]]
+![[Pong#Signals]]
 ![[Solitaire#Information]]

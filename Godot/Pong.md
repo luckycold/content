@@ -56,6 +56,8 @@ I have a Player node structered like so:
 	- Sprite
 	- Collider
 
+##
+
 In the player, I added a script that says this:
 ```gdscript
 extends Actor

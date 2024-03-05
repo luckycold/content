@@ -133,7 +133,7 @@ Some text under a header works
 ## Test Subheading
 But text under a header?
 
-And with a codeblock?:
+And with a code block?:
 ```gdscript
 func _ready():
     var desiredNodeToConnectTo = get_node("DesiredNode")

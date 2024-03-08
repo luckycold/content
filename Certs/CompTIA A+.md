@@ -180,4 +180,5 @@
 		- Class C: 192.168.0.0 - 192.168.255.255
 	- Reserved Addresses:
 		- APIPA address: 169.254.x.y
-		
+			- This is used as a fallback if a DHCP connection fails
+			- APIPA hosts can only communicate with other APIPA

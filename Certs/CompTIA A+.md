@@ -150,7 +150,9 @@
 		- Plain text record
 		- Allows for DKIM, DMARC, etc
 ### DHCP (Dynamic Host Configuration Protocol)
-- DHCP Lease Process
+- DHCP Lease Process: Temporary Assignment of an IP to a host
 	- Step 1: Discover
+		- Any DHCP server tha
 	- Step 2: Offer
-	- Step 3: 
+	- Step 3: Request
+	- Step 4: 

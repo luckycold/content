@@ -206,3 +206,4 @@
 ### Internet Connection Types
 - Fiber (Optic)
 - Cable
+	- Shared Connection with other people in the area and can slow down 

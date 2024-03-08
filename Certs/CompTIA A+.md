@@ -157,4 +157,5 @@
 		- Any DHCP server that hears this request will respond with config
 	- Step 3: Request
 		- The host requests from the first server that responds for the lease
-	- Step 4: 
+	- Step 4: Acknowledge
+		- DHCP marks it as registered in it's system

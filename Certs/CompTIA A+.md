@@ -230,4 +230,9 @@
 - VLAN (Virtual Local Area Network)
 	- A way to divide a switch into multiple switches
 	- This allows for only certain devices to be able to communicate with certain other devices within a network.
-- WAN ()
+- WAN (Wide Area Network)
+	- Spans multiple geolocations
+	- Using ISP internet links
+	- This connects something like 2 homes together
+- MAN (Metropolitarian Network)
+	- This is a 

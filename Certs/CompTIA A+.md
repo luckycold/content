@@ -254,4 +254,6 @@
 	- This is for patch panels
 	- Make sure you have it facing the correct direction
 - Loopback Plug
-	- It's an RJ-45 connector that connects back in on itself to test that it can send a signal back to t
+	- It's an RJ-45 connector that connects back in on itself to test that it can send a signal back to itself.
+- Network Tap
+	- Expensive device that lets you listen on comms from one destination to another

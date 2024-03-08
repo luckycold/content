@@ -216,4 +216,7 @@
 	- ADSL is different upload and download speeds.
 - Cellular
 	- Same internet as smartphones
-- Satellite 
+- Satellite
+- WISP
+	- Like cellular
+	- Uses mixed tech

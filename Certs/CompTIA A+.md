@@ -167,3 +167,5 @@
 - Subnet Mask: A binary number to identify what network the computers are on.
 	- E.g. <mark>255.255.255</mark>.0
 	     <mark>192.168.0</mark>.10
+	     > !Note
+	     > The highlighted portion is the id

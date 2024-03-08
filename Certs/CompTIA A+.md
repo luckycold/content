@@ -228,4 +228,6 @@
 	- Network in a single geographic location
 	- Private Links
 - VLAN (Virtual Local Area Network)
-	- A way to divide a switch into multiple swi
+	- A way to divide a switch into multiple switches
+	- This allows for only certain devices to be able to communicate with certain other devices within a network.
+- WAN ()

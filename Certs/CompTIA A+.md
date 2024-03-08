@@ -196,4 +196,5 @@
 - IPv6 Specifics
 	- <mark>::</mark> means that 3 continuous blocks of 0000 are truncated
 		- This cannot appear twice, if it does, then it's not IPv6
+		- fe80 is also not a part of the first block of IPv6 it's considered a "link-local "
 		- E.g. fe80::c53c:41f2:564f:6d3a

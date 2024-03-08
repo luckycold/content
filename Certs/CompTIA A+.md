@@ -163,3 +163,4 @@
 	- The range of IP addresses that is allowed to be leased to hosts
 - Reservations
 	- Like a static IP but managed by the DHCP server. Allows you to keep specific IPs for specific hosts.
+### IP Address Configuration

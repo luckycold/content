@@ -254,4 +254,4 @@
 	- This is for patch panels
 	- Make sure you have it facing the correct direction
 - Loopback Plug
-	- It's a RJ-45 connector t
+	- It's an RJ-45 connector that connects back in on itself to test that it can send a signal back to t

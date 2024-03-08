@@ -159,3 +159,5 @@
 		- The host tells the first server that responds that it's requested its config
 	- Step 4: Acknowledge
 		- DHCP marks it as registered in its system with lease and a timestamp
+- DHCP Scope
+	- The range of IP addresses that is allowed to be leased to hosts

@@ -246,3 +246,6 @@
 - Cable Crimper
 	- These are to hold together wires for things like RJ-45
 	- Coaxial crimpers are also a thing
+- Cable Tester
+	- You plug ends of a cable like RJ-45 to see if the cables are connected correctly
+- 

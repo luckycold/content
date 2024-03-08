@@ -209,7 +209,10 @@
 	- Shared Connection with other people in the area and can slow down when other people in the area use it.
 - Dial-Up
 	- Telephone line (Low-speed) but disaster recovery often use this since they're first to go up.
+	- Can't use phone while using internet
 - DSL
 	- This is also a telephone line but allows you to use both phone and internet
 	- Max distance of 8000 feet
-	- ADSL is diff
+	- ADSL is different upload and download.
+- Cellular
+- Satellite 

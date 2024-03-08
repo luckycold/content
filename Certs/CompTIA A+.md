@@ -234,5 +234,7 @@
 	- Spans multiple geolocations
 	- Using ISP internet links
 	- This connects something like 2 homes together
-- MAN (Metropolitarian Network)
-	- This is a 
+- MAN (Metropolitan Area Network)
+	- This is a network that only stays within city limits
+- SAN (Storage Area Network)
+	- Highly optimized fiber comms to combine storage, 

@@ -193,4 +193,5 @@
 		- Colon seperated hexidecimal
 		- 8 blocks
 		- Massive address space
-- IPv
+- IPv6 Specifics
+	- :: 

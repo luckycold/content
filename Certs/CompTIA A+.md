@@ -208,4 +208,6 @@
 - Cable
 	- Shared Connection with other people in the area and can slow down when other people in the area use it.
 - Dial-Up
-	- Telephone line (Low-speed)
+	- Telephone line (Low-speed) but disaster recovery often use this since they're first to go up.
+- DSL
+	- 

@@ -170,11 +170,12 @@
 > [!Note]
 > The highlighted portion is the network ID and the portions after are the "host portion"
 - IPv4 Classes
-	- Class A: 1.0.0.0 - 127.255.255.255
-	- Class B: 128.0.0.1 - 191.255.255.255
-	- Class C: 192.0.0.0 - 223.255.255.255
-- Private Ranges:
-	- Class A: 10.0.0.0 - 10.255.255.255
-	- Class B: 172.16.0.0 - 172.31.255.255
-	- Class C: 192.168.0.0 - 192.168.255.255
-- 
+	- Public Ranges
+		- Class A: 1.0.0.0 - 127.255.255.255
+		- Class B: 128.0.0.1 - 191.255.255.255
+		- Class C: 192.0.0.0 - 223.255.255.255
+	- Private Ranges:
+		- Class A: 10.0.0.0 - 10.255.255.255
+		- Class B: 172.16.0.0 - 172.31.255.255
+		- Class C: 192.168.0.0 - 192.168.255.255
+	- Reserv

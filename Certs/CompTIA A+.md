@@ -219,10 +219,13 @@
 - Satellite
 - WISP
 	- Like cellular
-	- Uses mixed tech
+	- Sses mixed tech
 	- Line of sight comms
 ### Network Types
 - Personal Area Network (PAN)
 	- E.g. Bluetooth and Phone
 - LAN (Local Area Network)
 	- Network in a single geographic location
+	- Private Links
+- VLAN (Virtual Local Area Network)
+	- A way to divide a switch into multiple swi

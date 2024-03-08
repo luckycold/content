@@ -244,3 +244,5 @@
 - Cable Stripper
 	- Remove coating of cables like shield
 - Cable Crimper
+	- These are to hold together wires for things like RJ-45
+	- Coaxial crimpers are also a thing

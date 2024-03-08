@@ -213,7 +213,7 @@
 - DSL
 	- This is also a telephone line but allows you to use both phone and internet
 	- Max distance of 8000 feet
-	- ADSL is different upload and download.
+	- ADSL is different upload and download speeds.
 - Cellular
 	- Same internet as smartphones
 - Satellite 

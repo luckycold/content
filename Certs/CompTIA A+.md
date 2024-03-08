@@ -203,4 +203,6 @@
 		- Global
 		- Unique Local
 		- Link-Local
-### Internet Connection Type
+### Internet Connection Types
+- Fiber (Optic)
+- 

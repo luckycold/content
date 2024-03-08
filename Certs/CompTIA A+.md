@@ -240,3 +240,7 @@
 	- Highly optimized fiber comms to combine storage connections
 	- Usually in enterprise
 - NAS
+### Network Tools
+- Cable Stripper
+	- Remove coating of cables like shield
+- Cable Crimper

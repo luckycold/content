@@ -237,4 +237,6 @@
 - MAN (Metropolitan Area Network)
 	- This is a network that only stays within city limits
 - SAN (Storage Area Network)
-	- Highly optimized fiber comms to combine storage, 
+	- Highly optimized fiber comms to combine storage connections
+	- Usually in enterprise
+- NAS

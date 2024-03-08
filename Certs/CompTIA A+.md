@@ -154,6 +154,7 @@
 	- Step 1: Discover
 		- Send out a request for DHCP configs around the network
 	- Step 2: Offer
-		- Any DHCP server that hears this request will respond with config 
+		- Any DHCP server that hears this request will respond with config
 	- Step 3: Request
+		- The host requests from the first server that responds for the lease
 	- Step 4: 

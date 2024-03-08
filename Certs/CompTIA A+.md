@@ -215,4 +215,5 @@
 	- Max distance of 8000 feet
 	- ADSL is different upload and download.
 - Cellular
+	- Same internet as smartphones
 - Satellite 

@@ -152,7 +152,7 @@
 ### DHCP (Dynamic Host Configuration Protocol)
 - DHCP Lease Process: Temporary Assignment of an IP to a host
 	- Step 1: Discover
-		- Any DHCP server tha
+		- Any DHCP server that hears this reques
 	- Step 2: Offer
 	- Step 3: Request
 	- Step 4: 

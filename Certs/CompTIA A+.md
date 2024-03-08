@@ -171,25 +171,25 @@
 > The highlighted portion is the network ID and the portions after are the "host portion"
 - IPv4 Classes
 	- Public Ranges
-		- Class A: 1.0.0.0 - 127.255.255.255
-		- Class B: 128.0.0.1 - 191.255.255.255
-		- Class C: 192.0.0.0 - 223.255.255.255
+		- Class A: 1.0.0.0–127.255.255.255
+		- Class B: 128.0.0.1–191.255.255.255
+		- Class C: 192.0.0.0–223.255.255.255
 	- Private Ranges:
-		- Class A: 10.0.0.0 - 10.255.255.255
-		- Class B: 172.16.0.0 - 172.31.255.255
-		- Class C: 192.168.0.0 - 192.168.255.255
+		- Class A: 10.0.0.0–10.255.255.255
+		- Class B: 172.16.0.0–172.31.255.255
+		- Class C: 192.168.0.0–192.168.255.255
 	- Reserved Addresses:
 		- APIPA address: 169.254.x.y
 			- This is used as a fallback if a DHCP connection fails
 			- APIPA hosts can only communicate with other APIPA
 - IPv4 vs IPv6
 	- IPv4
-		- 32 bit
+		- 32-bit
 		- dotted decimal
 		- 4 octets
 		- limited addresses
 	- IPv6
-		- 128 bit
+		- 128-bit
 		- Colon separated hexadecimal
 		- 8 blocks
 		- Massive address space

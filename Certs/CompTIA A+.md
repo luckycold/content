@@ -192,3 +192,5 @@
 		- 128 bit
 		- Colon seperated hexidecimal
 		- 8 blocks
+		- Massive address space
+- IPv

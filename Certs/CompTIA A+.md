@@ -222,4 +222,7 @@
 	- Uses mixed tech
 	- Line of sight comms
 ### Network Types
-- 
+- Personal Area Network (PAN)
+	- E.g. Bluetooth and Phone
+- LAN (Local Area Network)
+	- Network in a single geographic location

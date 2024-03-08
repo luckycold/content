@@ -220,3 +220,6 @@
 - WISP
 	- Like cellular
 	- Uses mixed tech
+	- Line of sight comms
+### Network Types
+- 

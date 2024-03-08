@@ -161,3 +161,5 @@
 		- DHCP marks it as registered in its system with lease and a timestamp
 - DHCP Scope
 	- The range of IP addresses that is allowed to be leased to hosts
+- Reservations
+	- Like a static IP but managed by the DHCP server. Allows you to keep specific IPs for specific hosts.

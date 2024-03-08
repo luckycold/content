@@ -149,3 +149,4 @@
 	- TXT
 		- Plain text record
 		- Allows for DKIM, DMARC, etc
+### DHCP (Dynamic Host Configuration Protocol)

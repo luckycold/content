@@ -203,4 +203,4 @@
 		- Global
 		- Unique Local
 		- Link-Local
-### IP Address Configuration
+### Internet Connection Type

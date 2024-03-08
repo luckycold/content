@@ -248,4 +248,5 @@
 	- Coaxial crimpers are also a thing
 - Cable Tester
 	- You plug ends of a cable like RJ-45 to see if the cables are connected correctly
-- 
+- Toner Probe (Wire Tracker)
+	- 

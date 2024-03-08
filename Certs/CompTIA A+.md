@@ -178,4 +178,6 @@
 		- Class A: 10.0.0.0 - 10.255.255.255
 		- Class B: 172.16.0.0 - 172.31.255.255
 		- Class C: 192.168.0.0 - 192.168.255.255
-	- Reserv
+	- Reserved Addresses:
+		- APIPA address: 169.254.x.y
+		

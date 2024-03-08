@@ -164,4 +164,4 @@
 - Reservations
 	- Like a static IP but managed by the DHCP server. Allows you to keep specific IPs for specific hosts.
 ### IP Address Configuration
-- 
+- Subnet Mask: A binary number to identify what 

@@ -150,3 +150,7 @@
 		- Plain text record
 		- Allows for DKIM, DMARC, etc
 ### DHCP (Dynamic Host Configuration Protocol)
+- DHCP Lease Process
+	- Step 1: Discover
+	- Step 2: Offer
+	- Step 3: 

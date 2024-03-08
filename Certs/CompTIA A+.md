@@ -210,4 +210,6 @@
 - Dial-Up
 	- Telephone line (Low-speed) but disaster recovery often use this since they're first to go up.
 - DSL
-	- 
+	- This is also a telephone line but allows you to use both phone and internet
+	- Max distance of 8000 feet
+	- ADSL is diff

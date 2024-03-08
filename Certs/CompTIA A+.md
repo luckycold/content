@@ -166,3 +166,4 @@
 ### IP Address Configuration
 - Subnet Mask: A binary number to identify what network the computers are on.
 	- E.g. 255.255.255.0
+	     **192.168.0**.10

@@ -194,4 +194,5 @@
 		- 8 blocks
 		- Massive address space
 - IPv6 Specifics
-	- :: 
+	- <mark>::</mark> means that 3 continous blocks of 0000 are truncated
+		- This cannot appear twice, if it does, then it's not IPv6

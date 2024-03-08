@@ -165,5 +165,5 @@
 	- Like a static IP but managed by the DHCP server. Allows you to keep specific IPs for specific hosts.
 ### IP Address Configuration
 - Subnet Mask: A binary number to identify what network the computers are on.
-	- E.g. 255.255.255.0
-	     **192.168.0**.10
+	- E.g. <mark>255.255.255</mark>.0
+	     <mark>192.168.0</mark>.10

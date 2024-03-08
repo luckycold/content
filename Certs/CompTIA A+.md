@@ -152,10 +152,10 @@
 ### DHCP (Dynamic Host Configuration Protocol)
 - DHCP Lease Process: Temporary Assignment of an IP to a host
 	- Step 1: Discover
-		- Send out a signal for all D
+		- Send out a signal for all DHCP servers to give a response with configs
 	- Step 2: Offer
 		- Any DHCP server that hears this request will respond with config
 	- Step 3: Request
-		- The host tells the first server that responds that it's requested it's config
+		- The host tells the first server that responds that it's requested its config
 	- Step 4: Acknowledge
-		- DHCP marks it as registered in it's system
+		- DHCP marks it as registered in its system with lease and a timestamp

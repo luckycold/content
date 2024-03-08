@@ -256,4 +256,6 @@
 - Loopback Plug
 	- It's an RJ-45 connector that connects back in on itself to test that it can send a signal back to itself.
 - Network Tap
-	- Expensive device that lets you listen on comms from one destination to another
+	- Expensive device that lets you listen on comms from one destination to another to see the data that's passing through cable.
+- Wifi analyzer
+	- Let's you read traffic on wifi network

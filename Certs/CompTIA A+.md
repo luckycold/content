@@ -251,3 +251,7 @@
 - Toner Probe (Wire Tracker)
 	- This helps find the correct cable in a bundle of cables in a server closet
 - Punchdown Tool
+	- This is for patch panels
+	- Make sure you have it facing the correct direction
+- Loopback Plug
+	- It's a RJ-45 connector t

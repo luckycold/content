@@ -182,3 +182,13 @@
 		- APIPA address: 169.254.x.y
 			- This is used as a fallback if a DHCP connection fails
 			- APIPA hosts can only communicate with other APIPA
+- IPv4 vs IPv6
+	- IPv4
+		- 32 bit
+		- dotted decimal
+		- 4 octets
+		- limited addresses
+	- IPv6
+		- 128 bit
+		- Colon seperated hexidecimal
+		- 8 blocks

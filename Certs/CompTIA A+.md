@@ -264,3 +264,8 @@
 	- Twisted Pair Cabling
 		- 8 Copper Conductors
 		- 4 Twisted Pairs
+		- Twists are to protect against electromagnetic interference
+		- UTP vs. STP
+			- Unshielded Twisted Pair
+			- Shielded Twisted Pair
+		- 

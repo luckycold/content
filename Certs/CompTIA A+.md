@@ -273,3 +273,7 @@
 		- Plenum vs Nonplenum
 			- PVC (Polyfenel Chloride?) also known as non plenum jacketing when burnt releases toxic gas
 			- Plenum is for firecode non toxic
+	- Specs CAT cables
+		- CAT5
+		- CAT5e(nhanced)
+		- CAR6a

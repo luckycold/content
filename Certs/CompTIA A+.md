@@ -275,6 +275,9 @@
 			- Plenum is for firecode non toxic
 	- Specs CAT cables
 		- CAT5
-			- Faste
+			- Fast Ethernet
 		- CAT5e(nhanced)
-		- CAR6a
+			- Gigabit ethernet (actually 350 mbps)
+		- CAT6
+			- Actual Gigabit ethernet
+		- CAT6

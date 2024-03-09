@@ -271,4 +271,5 @@
 		- RJ-45 Jack to connect the pairs
 		- Adding something like a RJ-45 is called "terminating"
 		- Plenum vs Nonplenum
-		- PVC jacketing when burnt releases toxic 
+			- PVC (Polyfenel Chloride?) also known as non plenum jacketing when burnt releases toxic gas
+			- Plenum is for firecode non toxic

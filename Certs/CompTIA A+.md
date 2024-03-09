@@ -268,4 +268,5 @@
 		- UTP vs. STP
 			- Unshielded Twisted Pair
 			- Shielded Twisted Pair
-		- 
+		- RJ-45 Jack to connect the pairs
+		- Usin

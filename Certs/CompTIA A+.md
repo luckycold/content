@@ -280,4 +280,5 @@
 			- Gigabit ethernet (actually 350 mbps)
 		- CAT6
 			- Actual Gigabit ethernet
-		- CAT6
+		- CAT6a
+			- 10 Gbps

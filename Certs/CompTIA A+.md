@@ -259,3 +259,8 @@
 	- Expensive device that lets you listen on comms from one destination to another to see the data that's passing through cable.
 - Wifi analyzer
 	- Let's you read traffic on wifi network
+# Hardware
+- Copper Media
+	- Twisted Pair Cabling
+		- 8 Copper Conductors
+		- 4 Twisted Pairs

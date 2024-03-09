@@ -269,4 +269,6 @@
 			- Unshielded Twisted Pair
 			- Shielded Twisted Pair
 		- RJ-45 Jack to connect the pairs
-		- Usin
+		- Adding something like a RJ-45 is called "terminating"
+		- Plenum vs Nonplenum
+		- PVC jacketing when burnt releases toxic 
